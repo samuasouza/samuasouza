@@ -2,21 +2,25 @@
   <img src="./assets/header.svg" width="100%" alt="Samuel Alves">
 </p>
 
-**Founder & CEO at [Sagitta Digital](https://github.com/sagitta-digital) · Head of Technology at FNCD Capital**
+Founder & CEO at Sagitta Digital · Head of Technology at FNCD Capital
 
 I lead teams and build digital products, connecting business goals with product decisions, software architecture and hands-on development.
 
 I like understanding the problem, questioning the solution and staying involved until it works in practice. My work goes from the first product conversations to launch and ongoing improvement.
 
-### What I work on
+What I work on
 
-- **Web & mobile products:** applications that connect customer experiences with business operations.
-- **Business platforms:** SaaS products, internal tools and operational workflows.
-- **APIs & integrations:** connecting applications, payments and business systems.
-- **Product modernization:** evolving Bubble and other no-code products into maintainable codebases.
-- **Technical leadership:** architecture, priorities, code review and release quality.
+Web & mobile products: applications that connect customer experiences with business operations.
 
-### Technologies in my projects
+Business platforms: SaaS products, internal tools and operational workflows.
+
+APIs & integrations: connecting applications, payments and business systems.
+
+Product modernization: evolving Bubble and other no-code products into maintainable codebases.
+
+Technical leadership: architecture, priorities, code review and release quality.
+
+Technologies in my projects
 
 <p>
   <img src="./assets/typescript.svg" height="30" alt="TypeScript">
@@ -27,24 +31,36 @@ I like understanding the problem, questioning the solution and staying involved 
   <img src="./assets/tailwind.svg" height="30" alt="Tailwind CSS">
 </p>
 
-| Area | Supporting tools & platforms |
-| :--- | :--- |
-| Web & data | `JavaScript` `SQL` `Vite` |
-| Quality & delivery | `Git` `GitHub` `Vitest` `Vercel` |
-| No-code & low-code | `Bubble` `FlutterFlow` |
+Area
 
-### Learning & interests
+Supporting tools & platforms
 
-- **Studying:** Digital Product Leadership at Tera.
-- **Exploring:** AI-assisted development, practical automation and product architecture.
-- **Education:** MBA in Digital Business — USP/Esalq.
+Web & data
 
-### Beyond the screen
+JavaScript SQL Vite
+
+Quality & delivery
+
+Git GitHub Vitest Vercel
+
+No-code & low-code
+
+Bubble FlutterFlow
+
+Learning & interests
+
+Studying: Digital Product Leadership at Tera.
+
+Exploring: AI-assisted development, practical automation and product architecture.
+
+Education: MBA in Digital Business — USP/Esalq.
+
+Beyond the screen
 
 Faith, family, books and rock music. Away from the keyboard, I make time for gym training, jiu-jitsu and mobility.
 
-### Let's connect
+Let's connect
 
-[LinkedIn](https://www.linkedin.com/in/samuel-alves-souza/) · [Sagitta Digital](https://github.com/sagitta-digital) · [Email](mailto:samuel.a.souza@outlook.com)
+LinkedIn · Sagitta Digital · Email
 
 <sub>Some of my professional work lives in private organization repositories. This profile includes public projects, earlier work and experiments.</sub>
