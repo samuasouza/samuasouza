@@ -1,25 +1,50 @@
-## Hi! I'm Samuel Alves! 
- <div>
-  <a href="https://github.com/samuasouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuasouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuasouza&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Samu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Samu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Samu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Samu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<p>
+  <img src="./assets/header.svg" width="100%" alt="Samuel Alves">
+</p>
 
-</div>
-  
-  ##
- 
-<div> 
-   <a href="https://www.instagram.com/samu.a.souza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/samuel.alvesdesouza.3975" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href = "mailto:samuel.a.souza@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samuel-alves-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/samuasouza/samuasouza/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+**Founder & CEO at [Sagitta Digital](https://github.com/sagitta-digital) · Head of Technology at FNCD Capital**
+
+I lead teams and build digital products, connecting business goals with product decisions, software architecture and hands-on development.
+
+I like understanding the problem, questioning the solution and staying involved until it works in practice. My work goes from the first product conversations to launch and ongoing improvement.
+
+### What I work on
+
+- **Web & mobile products:** applications that connect customer experiences with business operations.
+- **Business platforms:** SaaS products, internal tools and operational workflows.
+- **APIs & integrations:** connecting applications, payments and business systems.
+- **Product modernization:** evolving Bubble and other no-code products into maintainable codebases.
+- **Technical leadership:** architecture, priorities, code review and release quality.
+
+### Technologies in my projects
+
+<p>
+  <img src="./assets/typescript.svg" height="30" alt="TypeScript">
+  <img src="./assets/react.svg" height="30" alt="React">
+  <img src="./assets/supabase.svg" height="30" alt="Supabase">
+  <img src="./assets/postgresql.svg" height="30" alt="PostgreSQL">
+  <img src="./assets/capacitor.svg" height="30" alt="Capacitor">
+  <img src="./assets/tailwind.svg" height="30" alt="Tailwind CSS">
+</p>
+
+| Area | Supporting tools & platforms |
+| :--- | :--- |
+| Web & data | `JavaScript` `SQL` `Vite` |
+| Quality & delivery | `Git` `GitHub` `Vitest` `Vercel` |
+| No-code & low-code | `Bubble` `FlutterFlow` |
+
+### Learning & interests
+
+- **Studying:** Digital Product Leadership at Tera.
+- **Exploring:** AI-assisted development, practical automation and product architecture.
+- **Education:** MBA in Digital Business — USP/Esalq.
+
+### Beyond the screen
+
+Faith, family, books and rock music. Away from the keyboard, I make time for gym training, jiu-jitsu and mobility.
+
+### Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/samuel-alves-souza/) · [Sagitta Digital](https://github.com/sagitta-digital) · [Email](mailto:samuel.a.souza@outlook.com)
+
+<sub>Some of my professional work lives in private organization repositories. This profile includes public projects, earlier work and experiments.</sub>

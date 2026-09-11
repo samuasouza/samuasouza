@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="30" viewBox="0 0 70 30" role="img" aria-label="React">
+<rect x="0.5" y="0.5" width="69" height="29" rx="6" fill="#18201C" stroke="#3D4D43"/>
+<circle cx="13" cy="15" r="3" fill="#76C8D5"/>
+<text x="24" y="19.4" fill="#E8EDE6" font-family="DejaVu Sans Mono, monospace" font-size="12.5">React</text>
+</svg>

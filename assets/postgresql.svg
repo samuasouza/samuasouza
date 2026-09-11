@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="30" viewBox="0 0 108 30" role="img" aria-label="PostgreSQL">
+<rect x="0.5" y="0.5" width="107" height="29" rx="6" fill="#18201C" stroke="#3D4D43"/>
+<circle cx="13" cy="15" r="3" fill="#86A6C4"/>
+<text x="24" y="19.4" fill="#E8EDE6" font-family="DejaVu Sans Mono, monospace" font-size="12.5">PostgreSQL</text>
+</svg>
