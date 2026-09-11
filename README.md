@@ -16,8 +16,6 @@ Business platforms: SaaS products, internal tools and operational workflows.
 
 APIs & integrations: connecting applications, payments and business systems.
 
-Product modernization: evolving Bubble and other no-code products into maintainable codebases.
-
 Technical leadership: architecture, priorities, code review and release quality.
 
 Technologies in my projects
@@ -42,10 +40,6 @@ JavaScript SQL Vite
 Quality & delivery
 
 Git GitHub Vitest Vercel
-
-No-code & low-code
-
-Bubble FlutterFlow
 
 Learning & interests
 
